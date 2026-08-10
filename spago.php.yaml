@@ -6,10 +6,6 @@ package:
     - functions
     - maybe
     - prelude
-workspace:
-  packageSet:
-    registry: 73.3.0
-
   test:
     main: Test.Main
     dependencies:
